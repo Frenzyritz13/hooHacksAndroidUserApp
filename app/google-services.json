@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "367831185163",
+    "firebase_url": "https://smartwidget-ae5c7-default-rtdb.firebaseio.com",
+    "project_id": "smartwidget-ae5c7",
+    "storage_bucket": "smartwidget-ae5c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367831185163:android:0bb538921229903a52140e",
+        "android_client_info": {
+          "package_name": "com.hoohacks.widgetserverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367831185163-clg8r0v3k5okh02klgqujj1i7u7rpulg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQA-xB5CXynzxqdcdi0vW4BHWmoRuy54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367831185163-clg8r0v3k5okh02klgqujj1i7u7rpulg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367831185163:android:ae39651fb3b0f78852140e",
+        "android_client_info": {
+          "package_name": "com.hoohacks.widgetuserapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367831185163-clg8r0v3k5okh02klgqujj1i7u7rpulg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQA-xB5CXynzxqdcdi0vW4BHWmoRuy54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367831185163-clg8r0v3k5okh02klgqujj1i7u7rpulg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
